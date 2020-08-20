@@ -1,0 +1,20 @@
+h1 {
+  color: red;
+}
+
+.primero {
+  color: blue;
+}
+
+.segundo {
+  color: orange;
+}
+
+p {
+  text-align: center;
+}
+
+.fin {
+  font-weight: bold;
+  color: blue;
+}
